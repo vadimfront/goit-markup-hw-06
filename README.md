@@ -1,3 +1,3 @@
-# goit-markup-hw-05
-[Home page](https://vadimfront.github.io/goit-markup-hw-05/) <br>
-[Portfolio page](https://vadimfront.github.io/goit-markup-hw-05/portfolio.html)
+# goit-markup-hw-06
+[Home page](https://vadimfront.github.io/goit-markup-hw-06/) <br>
+[Portfolio page](https://vadimfront.github.io/goit-markup-hw-06/portfolio.html)
